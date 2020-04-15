@@ -19,3 +19,5 @@ HAY UN SWITCH EL CUAL PERMITE ACTIVAR EL TECLADO O DESBLOQUARLO
 
 Autor:Francisco Javier Morales Ayala carnet:MA13095 Ingenieria de Sistemas Informaticos
 CORREO:ma13095@ues.edu.sv
+
+![scrmincalculadora](https://user-images.githubusercontent.com/60416252/79296084-a4e73a00-7e97-11ea-8f9d-2fb0a72049f0.png)
